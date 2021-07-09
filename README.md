@@ -1,8 +1,8 @@
 ## Run a local SMTP Server
 
 #### Prerequisites
-- Docker
-- Python (to test email)
+- [Docker](https://docs.docker.com/get-docker/)
+- Python, optional(to test email)
 
 
 ### 1. Run the MailSlurper server
