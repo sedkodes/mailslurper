@@ -14,18 +14,15 @@ from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 
 fromAddresses = (
-    "adam@adampresley.com",
-    "test@adampresley.com",
-    "test@gmail.com",
-    "fabio@yahoo.com",
+    "victoryyemi@gmail.com",
 )
 
 toAddresses = (
-    "adam@adampresley.com",
-    "recipient1@gmail.com",
-    "recipient2@gmail.com",
-    "test@altavista.com",
-    "data@test.com",
+    "victory.oluwasegun@q2.com",
+#    "recipient1@gmail.com",
+#    "recipient2@gmail.com",
+#    "test@altavista.com",
+#    "data@test.com",
 )
 
 DATE_FORMAT_1 = "%a, %d %b %Y %H:%M:%S -0700 (UTC)"
